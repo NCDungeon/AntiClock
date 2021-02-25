@@ -8,4 +8,4 @@ You are not allowed to copy our work unless the authors name is explicitly noted
 
 # Credits
 
-This plugin was developed by @astroorbis
+This plugin was developed by [AstroOrbis](https://github.com/astroorbis)
